@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ricardoralves.github.io/bonfim-capoeira-acervo/sitemap.xml
