@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 function closeMenu(){menuButton?.setAttribute('aria-expanded','false');nav?.classList.remove('open');}
 nav?.addEventListener('click',event=>{if(event.target.closest('a'))closeMenu();});
 document.addEventListener('click',event=>{if(!event.target.closest('.site-header'))closeMenu();});
@@ -18,7 +18,7 @@ document.querySelectorAll('.filter-scope').forEach(scope=>{
  document.querySelectorAll('[data-state]').forEach(anchor=>anchor.addEventListener('click',()=>{form.elements.q.value='';form.elements.city.value=anchor.dataset.state;filter();}));
  filter();
 });
-if(!document.querySelector('.city-grid'))document.querySelectorAll('[data-state]').forEach(anchor=>{anchor.setAttribute('href',`/bonfim-capoeira-acervo/bonfim-capoeira-acervo/cidades/?estado=${anchor.dataset.state}#lista-cidades`);});
+if(!document.querySelector('.city-grid'))document.querySelectorAll('[data-state]').forEach(anchor=>{anchor.setAttribute('href',`/bonfim-capoeira-acervo/cidades/?estado=${anchor.dataset.state}#lista-cidades`);});
 const initialState=new URLSearchParams(location.search).get('estado');
 if(['MG','SP','PR'].includes(initialState)){const select=document.querySelector('.city-grid')?.closest('.filter-scope').querySelector('select[name="city"]');if(select){select.value=initialState;select.dispatchEvent(new Event('change',{bubbles:true}));}}
 const dialog=document.querySelector('#lightbox');
