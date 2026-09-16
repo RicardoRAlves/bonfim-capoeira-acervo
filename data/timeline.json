@@ -1,0 +1,788 @@
+{
+  "sheet": "Cronologia",
+  "columns": [
+    "Marco",
+    "Data e precisão",
+    "Data exata",
+    "Acontecimento",
+    "Localidade",
+    "Fontes",
+    "Confiança"
+  ],
+  "rows": [
+    [
+      "T001",
+      "1957-06-27",
+      "1957-06-27",
+      "Nascimento de Reginaldo Santana em Itabuna BA",
+      "Itabuna",
+      "S01,S02",
+      "ALTA"
+    ],
+    [
+      "T002",
+      "1965",
+      null,
+      "Início com Antônio Rodrigues, segundo biografias",
+      "Itabuna",
+      "S01,S02",
+      "MÉDIA"
+    ],
+    [
+      "T003",
+      "1974",
+      null,
+      "Graduação de professor, autodeclarada",
+      "Itabuna",
+      "S01",
+      "MÉDIA"
+    ],
+    [
+      "T004",
+      "1976",
+      null,
+      "Passagem por Distrito Federal e Ribeirão Preto",
+      "DF; Ribeirão Preto",
+      "S01",
+      "MÉDIA"
+    ],
+    [
+      "T005",
+      "1977 / 1978 / 1979",
+      null,
+      "Fundação em Passos: 1978 é versão predominante; IPHAN registra 1977 e reportagem 2023 registra 1979",
+      "Passos",
+      "S01,S02,S10,S44,S45",
+      "DIVERGENTE"
+    ],
+    [
+      "T006",
+      "1979-05-20",
+      "1979-05-20",
+      "Início de Kauê com Reginaldo segundo Jundpedia; narrativa da idade tem inconsistência",
+      "Passos",
+      "S49",
+      "MÉDIA"
+    ],
+    [
+      "T007",
+      "1986",
+      null,
+      "Reconhecimento de Régis como mestre, autodeclarado",
+      "NÃO CONFIRMADO",
+      "S01",
+      "MÉDIA"
+    ],
+    [
+      "T008",
+      "1986",
+      null,
+      "Início do trabalho de Eldorado com Braga e Alemão",
+      "Eldorado",
+      "S09",
+      "MÉDIA"
+    ],
+    [
+      "T009",
+      "1987",
+      null,
+      "Início da capoeira Bonfim em Pariquera Açu",
+      "Pariquera Açu",
+      "S07,S24",
+      "ALTA"
+    ],
+    [
+      "T010",
+      "1988-09",
+      null,
+      "Chegada de Kauê a Jundiaí; mês informado por Madruga",
+      "Jundiaí",
+      "S10,S11,S48",
+      "ALTA para ano; MÉDIA para mês"
+    ],
+    [
+      "T011",
+      "cerca de 1989",
+      null,
+      "Joan começa a ensinar em substituição a Fábio Deveras",
+      "Pariquera Açu",
+      "S24",
+      "MÉDIA"
+    ],
+    [
+      "T012",
+      "1990-02-02",
+      "1990-02-02",
+      "Início do trabalho na Casa da Cultura e marco comemorado pelo núcleo",
+      "Jundiaí",
+      "S13,S48,S49; IG CoXbGhxDYPE",
+      "ALTA"
+    ],
+    [
+      "T013",
+      "1994",
+      null,
+      "Início do núcleo Cananeia com Fábio e Braga",
+      "Cananeia",
+      "S06",
+      "MÉDIA"
+    ],
+    [
+      "T014",
+      "1998",
+      null,
+      "Marco Aurélio assume trabalho em Cananeia segundo blog",
+      "Cananeia",
+      "S06",
+      "MÉDIA"
+    ],
+    [
+      "T015",
+      "2000",
+      null,
+      "Gilsinho assume coordenação regional de quatro cidades",
+      "Vale do Ribeira",
+      "S04",
+      "MÉDIA"
+    ],
+    [
+      "T016",
+      "2003",
+      null,
+      "Zé Reis recebe graduação de mestre em Passos por Reginaldo",
+      "Passos; Piumhi",
+      "S46",
+      "MÉDIA"
+    ],
+    [
+      "T017",
+      "2007-05",
+      null,
+      "Franca conquista oito medalhas na Copa de Piumhi",
+      "Franca; Piumhi",
+      "S36",
+      "MÉDIA"
+    ],
+    [
+      "T018",
+      "2008-07",
+      null,
+      "Equipe Jundiaí em Jogos Regionais de Itu",
+      "Itu",
+      "S52",
+      "MÉDIA"
+    ],
+    [
+      "T019",
+      "2008-09",
+      null,
+      "Batizado de 20 crianças do Projeto Veredas noticiado",
+      "Franca",
+      "S37",
+      "MÉDIA"
+    ],
+    [
+      "T020",
+      "2008-12-01",
+      "2008-12-01",
+      "Criação do Maracatu Princesa do Litoral, coletivo relacionado",
+      "Iguape",
+      "S70",
+      "MÉDIA"
+    ],
+    [
+      "T021",
+      "2009-07",
+      null,
+      "Equipe Jundiaí nos Jogos Regionais de São Roque",
+      "São Roque",
+      "S53",
+      "MÉDIA"
+    ],
+    [
+      "T022",
+      "2010",
+      null,
+      "Criação declarada da filial Paraná",
+      "Fazenda Rio Grande",
+      "S21",
+      "MÉDIA"
+    ],
+    [
+      "T023",
+      "2010-07",
+      null,
+      "Equipe Jundiaí nos Jogos Regionais de Itu",
+      "Itu",
+      "S54",
+      "MÉDIA"
+    ],
+    [
+      "T024",
+      "2010-11-19 a 21",
+      null,
+      "XVIII batizado anunciado por Professor Paulista",
+      "Jundiaí",
+      "S18",
+      "MÉDIA; anúncio"
+    ],
+    [
+      "T025",
+      "2011",
+      null,
+      "Maculelê Filhos de Cananéia é desenvolvido por integrantes do Bonfim",
+      "Cananeia",
+      "S69",
+      "MÉDIA"
+    ],
+    [
+      "T026",
+      "2011-07",
+      null,
+      "Equipe Jundiaí nos Jogos Regionais de Itapetininga",
+      "Itapetininga",
+      "S55",
+      "MÉDIA"
+    ],
+    [
+      "T027",
+      "2011-10-29",
+      "2011-10-29",
+      "Ginga em Família na Escola da Família",
+      "São Paulo Guaianases",
+      "S58",
+      "ALTA para publicação histórica"
+    ],
+    [
+      "T028",
+      "2011-11-21",
+      "2011-11-21",
+      "Publicação da tabela histórica de graduações",
+      "Jundiaí",
+      "S56",
+      "ALTA"
+    ],
+    [
+      "T029",
+      "2011-12-03",
+      "2011-12-03",
+      "Festival AFROLEGADO relacionado ao Projeto Crescer",
+      "Jundiaí",
+      "S57",
+      "MÉDIA"
+    ],
+    [
+      "T030",
+      "2012-02-01",
+      "2012-02-01",
+      "Data de catálogo do álbum É Assim Que a Banda Toca; lançamento original não confirmado",
+      "Grupo",
+      "S39",
+      "ALTA para metadado"
+    ],
+    [
+      "T031",
+      "2012-04-21",
+      "2012-04-21",
+      "Reginaldo recebe título de grão mestre por Pedrinho no Maratayma",
+      "Cananeia",
+      "S02,S50",
+      "ALTA"
+    ],
+    [
+      "T032",
+      "2012-08-12",
+      "2012-08-12",
+      "III etapa do torneio regional com seis cidades",
+      "Cananeia",
+      "S23",
+      "MÉDIA"
+    ],
+    [
+      "T033",
+      "2013-07",
+      null,
+      "Sete ouros e um bronze em equipe documentada pela Prefeitura",
+      "Jundiaí",
+      "S11",
+      "ALTA"
+    ],
+    [
+      "T034",
+      "2013-12-06 a 08",
+      null,
+      "Encontro em Passos com oficinas e apresentações",
+      "Passos",
+      "S76",
+      "ALTA"
+    ],
+    [
+      "T035",
+      "2014-02-18",
+      "2014-02-18",
+      "Publicação de apresentação no Colégio Memorial",
+      "Jundiaí",
+      "S16",
+      "ALTA"
+    ],
+    [
+      "T036",
+      "2014-12-06 a 07",
+      null,
+      "Encontro de encerramento do ano em Passos",
+      "Passos",
+      "S26",
+      "ALTA"
+    ],
+    [
+      "T037",
+      "2015-05",
+      null,
+      "Falecimento de Mestre Grilo, conforme memória municipal de 2017",
+      "Pitangueiras",
+      "S20",
+      "MÉDIA"
+    ],
+    [
+      "T038",
+      "2017-11-11",
+      "2017-11-11",
+      "Batizado e troca de cordas de 52 crianças e adolescentes",
+      "Pitangueiras",
+      "S20",
+      "ALTA"
+    ],
+    [
+      "T039",
+      "2018",
+      null,
+      "Dissertação de Pepita Polido descreve experiência de formação no Bonfim",
+      "Jundiaí; UNESP",
+      "S10",
+      "ALTA"
+    ],
+    [
+      "T040",
+      "2019-02-23",
+      "2019-02-23",
+      "Formatura de Mestre Piaba e homenagem de Zula",
+      "Jundiaí",
+      "IG B1ldSOqnr7t",
+      "MÉDIA"
+    ],
+    [
+      "T041",
+      "2019-07",
+      null,
+      "Primeira Copa Passos; dia exato do evento é inconsistente na notícia",
+      "Passos",
+      "S38",
+      "ALTA para evento"
+    ],
+    [
+      "T042",
+      "2019-11-17",
+      "2019-11-17",
+      "Primeiro batizado da oficina do CRAS",
+      "Fortaleza de Minas",
+      "S33",
+      "MÉDIA"
+    ],
+    [
+      "T043",
+      "2020-02",
+      null,
+      "Celebração de 30 anos do núcleo; oficinas com Maia Coyote e Sagu",
+      "Jundiaí",
+      "S13; IG B8L2BYtpjck,B8O8IZeJ4e-",
+      "MÉDIA"
+    ],
+    [
+      "T044",
+      "2022-05-09",
+      "2022-05-09",
+      "Início anunciado de aulas gratuitas no Expójac",
+      "Jacupiranga",
+      "S22",
+      "MÉDIA; anúncio"
+    ],
+    [
+      "T045",
+      "2022-07-25",
+      "2022-07-25",
+      "Homenagem municipal à Mestra Sereia",
+      "Jundiaí",
+      "S75",
+      "ALTA"
+    ],
+    [
+      "T046",
+      "2022",
+      null,
+      "Resultados de Franca Alpinópolis e Passos no Mineiro de Lavras",
+      "Lavras",
+      "S28",
+      "ALTA"
+    ],
+    [
+      "T047",
+      "2022-12-19",
+      "2022-12-19",
+      "Reportagem sobre 35 anos de trabalho social de Joan",
+      "Pariquera Açu",
+      "S24",
+      "MÉDIA"
+    ],
+    [
+      "T048",
+      "2023-03-26",
+      "2023-03-26",
+      "Workshop gratuito com Reginaldo e Fumaça anunciado",
+      "Ribeirão Preto",
+      "S47",
+      "ALTA para programação"
+    ],
+    [
+      "T049",
+      "2023-10-14",
+      "2023-10-14",
+      "Gilsinho recebe corda branca de Marcão e Reginaldo",
+      "Cananeia; Registro",
+      "S45",
+      "MÉDIA"
+    ],
+    [
+      "T050",
+      "2023-12-03",
+      "2023-12-03",
+      "Primeira Copa Infantil Bonfim; Carmo campeão coletivo",
+      "Cássia",
+      "S32",
+      "MÉDIA"
+    ],
+    [
+      "T051",
+      "2024-04-13",
+      "2024-04-13",
+      "Título honorífico da Faculdade Ordem dos Capelães do Brasil, conforme autobiografia",
+      "São Paulo",
+      "S01",
+      "MÉDIA; instituição concedente não é UFMG"
+    ],
+    [
+      "T052",
+      "2024-08",
+      null,
+      "Pré formatura de Ursão com Reginaldo",
+      "São Paulo",
+      "S29",
+      "MÉDIA"
+    ],
+    [
+      "T053",
+      "2024-09-01",
+      "2024-09-01",
+      "Quarto torneio regional Bonfim Vale do Ribeira",
+      "Iguape",
+      "S25",
+      "MÉDIA"
+    ],
+    [
+      "T054",
+      "2024-11-21",
+      "2024-11-21",
+      "Atividade de Mestre Kan em escola na Semana da Consciência Negra",
+      "Itaú de Minas",
+      "S34",
+      "ALTA para documento; acesso parcial"
+    ],
+    [
+      "T055",
+      "2025-02-12",
+      "2025-02-12",
+      "Oficina de maracatu anunciada com Coletivo Embaúba",
+      "Jundiaí",
+      "IG DF0K3vvRfc0",
+      "ALTA para anúncio"
+    ],
+    [
+      "T056",
+      "2025-04-12",
+      "2025-04-12",
+      "Quadro de horários divulgado pelo núcleo",
+      "Jundiaí",
+      "S14",
+      "ALTA para divulgação"
+    ],
+    [
+      "T057",
+      "2025-04-27",
+      "2025-04-27",
+      "Apresentação Bonfim em evento esportivo local",
+      "Carmo do Rio Claro",
+      "S31",
+      "MÉDIA"
+    ],
+    [
+      "T058",
+      "2026-03",
+      null,
+      "Fotografias de encontro de Jundiaí publicadas por FAF",
+      "Jundiaí",
+      "IG DVZC_HMkVpw,DVYsqZ2EQFV,DVYiBh-EWdE",
+      "ALTA para publicação"
+    ],
+    [
+      "T059",
+      "2026",
+      null,
+      "Reginaldo participa da série Memórias da Capoeira e do filme Tudo que a capoeira toca",
+      "Passos; Minas Gerais",
+      "S01,S40,S59",
+      "ALTA"
+    ],
+    [
+      "T060",
+      "2026-07-25",
+      "2026-07-25",
+      "Sétimo batizado Bonfim em Córrego Rico",
+      "Jaboticabal",
+      "S19",
+      "ALTA"
+    ],
+    [
+      "T061",
+      "02/07/1994",
+      "1994-07-02",
+      "Anúncio do 3º batizado do Bonfim; CONFIRMADA a programação; o cartaz não nomeia Kauê.",
+      "Ginásio da Esportiva, Centro",
+      "A08",
+      "CONFIRMADA a programação; o cartaz não nomeia Kauê."
+    ],
+    [
+      "T062",
+      "25/10/1997",
+      "1997-10-25",
+      "6º batizado; Kauê já apresentado como mestre e diretor; CONFIRMADA a designação e o anúncio.",
+      "Clube São João",
+      "A03",
+      "CONFIRMADA a designação e o anúncio."
+    ],
+    [
+      "T063",
+      "24/10/1998",
+      "1998-10-24",
+      "7º batizado anunciado; CONFIRMADA a programação.",
+      "Clube São João",
+      "A06",
+      "CONFIRMADA a programação."
+    ],
+    [
+      "T064",
+      "23–29/10/1999",
+      null,
+      "Página de jornal anuncia batizado dia 23/10; foto traz 24/10/98; CONFIRMADA a publicação; data da fotografia em conflito.",
+      "Clube São João",
+      "A09, A12",
+      "CONFIRMADA a publicação; data da fotografia em conflito."
+    ],
+    [
+      "T065",
+      "14/10/2000",
+      "2000-10-14",
+      "9º batizado anunciado; CONFIRMADA a programação.",
+      "Clube São João",
+      "A07",
+      "CONFIRMADA a programação."
+    ],
+    [
+      "T066",
+      "20/10/2001",
+      "2001-10-20",
+      "10º batizado; documento nomeia organizador e instrutores; CONFIRMADA a programação e as funções registradas.",
+      "SESI Jundiaí",
+      "A02",
+      "CONFIRMADA a programação e as funções registradas."
+    ],
+    [
+      "T067",
+      "29/06/2002",
+      "2002-06-29",
+      "11º batizado; Kauê identificado como presidente; CONFIRMADA a informação documental.",
+      "SESI Jundiaí",
+      "A01",
+      "CONFIRMADA a informação documental."
+    ],
+    [
+      "T068",
+      "10/07/2004",
+      "2004-07-10",
+      "13º batizado e troca de cordões; CONFIRMADA a programação.",
+      "Clube São João",
+      "A04, A05",
+      "CONFIRMADA a programação."
+    ],
+    [
+      "T069",
+      "15/01/2013",
+      "2013-01-15",
+      "Publicação de vídeo associando Kauê e Professor Zula ao Bonfim SP; CONFIRMADA a publicação; filmagem sem data identificada.",
+      "São Paulo no título",
+      "S108",
+      "CONFIRMADA a publicação; filmagem sem data identificada."
+    ],
+    [
+      "T070",
+      "15–16/02/2014",
+      null,
+      "Encontro divulgado pela prefeitura; CONFIRMADO o anúncio.",
+      "Romão de Souza, Colônia, Jundiaí",
+      "S81",
+      "CONFIRMADO o anúncio."
+    ],
+    [
+      "T071",
+      "2016",
+      null,
+      "Registro intitulado XXII batizado de Jundiaí; CONFIRMADA a existência do registro assim identificado.",
+      "Kauê; monitoria de Jeanne",
+      "S114",
+      "CONFIRMADA a existência do registro assim identificado."
+    ],
+    [
+      "T072",
+      "03/08/2018",
+      "2018-08-03",
+      "Vídeo institucional descreve aula infantil em 22 de julho; CONFIRMADO o intercâmbio relatado.",
+      "Kauê e academia de Zula",
+      "S110",
+      "CONFIRMADO o intercâmbio relatado."
+    ],
+    [
+      "T073",
+      "12/05/2023",
+      "2023-05-12",
+      "Oficina no 2º Festival de Capoeira de Louveira; CONFIRMADA por notícia municipal.",
+      "CEAM",
+      "S84",
+      "CONFIRMADA por notícia municipal."
+    ],
+    [
+      "T074",
+      "13/09/2023",
+      "2023-09-13",
+      "Proposta do Bonfim selecionada no CulturaMais; CONFIRMADA a seleção.",
+      "Camila Munhoz, proponente",
+      "S85",
+      "CONFIRMADA a seleção."
+    ],
+    [
+      "T075",
+      "23–24/02/2024",
+      null,
+      "Núcleo paulista anuncia participação em evento de Kauê; CONFIRMADO o convite.",
+      "Jundiaí",
+      "S98",
+      "CONFIRMADO o convite."
+    ],
+    [
+      "T076",
+      "14/02 e 02/04/2025",
+      null,
+      "Seleção e habilitação na premiação PNAB; CONFIRMADAS as etapas administrativas.",
+      "Carlos Alberto da Silva / Mestre Kauê",
+      "S86, S87",
+      "CONFIRMADAS as etapas administrativas."
+    ],
+    [
+      "T077",
+      "05/09/2013",
+      "2013-09-05",
+      "Programação do Mulheraça anuncia Professor Zula; CONFIRMADO o convite; não comprova sede do núcleo nessas cidades.",
+      "Salesópolis / Biritiba Mirim; evento de setembro",
+      "S82",
+      "CONFIRMADO o convite; não comprova sede do núcleo nessas cidades."
+    ],
+    [
+      "T078",
+      "20/12/2014",
+      "2014-12-20",
+      "Relato do encontro de 6–7 de dezembro identifica Zula como de São Paulo; CONFIRMADA a participação relatada.",
+      "Passos; rede Bonfim",
+      "S26",
+      "CONFIRMADA a participação relatada."
+    ],
+    [
+      "T079",
+      "07/09/2016",
+      "2016-09-07",
+      "Publicação de vídeo do 3º batizado do Núcleo São Paulo; CONFIRMADO o registro; data da filmagem a apurar.",
+      "Responsáveis não detalhados na descrição",
+      "S109",
+      "CONFIRMADO o registro; data da filmagem a apurar."
+    ],
+    [
+      "T080",
+      "2022",
+      null,
+      "Registros de abertura de batizado e de treino infantil; Fontes primárias localizadas; datas completas do evento e da graduação não fixadas.",
+      "Bonfim SP; título Mestre Zula em hashtags",
+      "S99, S100",
+      "Fontes primárias localizadas; datas completas do evento e da graduação não fixadas."
+    ],
+    [
+      "T081",
+      "09/11/2022",
+      "2022-11-09",
+      "Publicação “Jangadinha infantil”; CONFIRMADA a ação descrita.",
+      "Núcleo paulista; crianças; puxada de rede",
+      "S96",
+      "CONFIRMADA a ação descrita."
+    ],
+    [
+      "T082",
+      "15/11/2022 e 17/10/2023",
+      null,
+      "Homenagens públicas a Kauê e outros mestres; CONFIRMADAS as publicações.",
+      "Rede formativa do Bonfim SP",
+      "S94, S95",
+      "CONFIRMADAS as publicações."
+    ],
+    [
+      "T083",
+      "21/02/2024",
+      "2024-02-21",
+      "Convite para acompanhar evento em 23–24/02; CONFIRMADO o anúncio.",
+      "Bonfim SP → Jundiaí",
+      "S98",
+      "CONFIRMADO o anúncio."
+    ],
+    [
+      "T084",
+      "21/05/2024",
+      "2024-05-21",
+      "Divulgação de formatura associada a Ursão; CONFIRMADO o anúncio; cerimônia e concessor a documentar.",
+      "Núcleo paulista",
+      "S102",
+      "CONFIRMADO o anúncio; cerimônia e concessor a documentar."
+    ],
+    [
+      "T085",
+      "30/11/2025",
+      "2025-11-30",
+      "Relato da Expo Internacional da Consciência Negra; CONFIRMADA a publicação da participante.",
+      "Risadinha; projeto escolar; Zula e Kauê mencionados",
+      "S97",
+      "CONFIRMADA a publicação da participante."
+    ],
+    [
+      "T086",
+      "14/09/2026",
+      "2026-09-14",
+      "Perfil consultado se apresenta como Núcleo Aroeira SP; CONFIRMADA a apresentação institucional nessa consulta.",
+      "Zula, Brasileiro, Ursão, Risadinha; ZL",
+      "S64",
+      "CONFIRMADA a apresentação institucional nessa consulta."
+    ]
+  ]
+}

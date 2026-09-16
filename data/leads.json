@@ -1,0 +1,143 @@
+{
+  "sheet": "Pistas",
+  "columns": [
+    "Pista",
+    "Localidade ou menção",
+    "Evidência e limite",
+    "Tratamento"
+  ],
+  "rows": [
+    [
+      "L01",
+      "Portugal",
+      "País citado em S21,S29,S63; cidade e responsável não confirmados",
+      "Não contar como cidade"
+    ],
+    [
+      "L02",
+      "Alemanha fora Hamburgo",
+      "Viagens e referência nacional sem endereço",
+      "Não criar filiais com base em viagem"
+    ],
+    [
+      "L03",
+      "França e Inglaterra",
+      "S37 declara presença internacional em 2008, sem cidades",
+      "Alegação histórica pendente"
+    ],
+    [
+      "L04",
+      "Ucrânia",
+      "Viagem de Fumaça e alunos de seu irmão, S77",
+      "Vínculo com matriz Passos não comprovado"
+    ],
+    [
+      "L05",
+      "Liberdade MG",
+      "Cadastro S79 localizado; sem conexão com Reginaldo",
+      "Não incorporar até esclarecer homônimo"
+    ],
+    [
+      "L06",
+      "Orlândia SP",
+      "Evento citado em S29",
+      "Participação não demonstra filial"
+    ],
+    [
+      "L07",
+      "Pimenta Capitólio Jacuí São João Batista do Glória MG",
+      "Cidades participantes de evento S33",
+      "Vínculos de cada delegação não comprovados"
+    ],
+    [
+      "L08",
+      "Juiz de Fora e Santa Rita de Jacutinga MG",
+      "Bonfim fundado por Mestre Pinheiro em 1972, S62",
+      "Grupo distinto da matriz de Reginaldo"
+    ],
+    [
+      "L09",
+      "Poços de Caldas MG",
+      "Filhos do Bonfim e Mestre Sena citados em S01,S28,S44",
+      "Relação histórica não equivale a filial atual"
+    ],
+    [
+      "L10",
+      "Monte Alto Pontal Barrinha SP",
+      "S20 nomeia outros grupos convidados",
+      "Excluir do censo Bonfim"
+    ],
+    [
+      "L11",
+      "Ginga que Educa Jaboticabal",
+      "S78 cita Mestre Flávio e professora Lavínia",
+      "Não fundir com Bonfim/Mosquito sem vínculo explícito"
+    ],
+    [
+      "L12",
+      "Contradições de nascimento e início na capoeira",
+      "Entrevista gravada com Kauê, com perguntas separando nascimento, infância e primeiro mestre.    Fontes: S11, S49, S10",
+      "Alta prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L13",
+      "Zula e a abertura da capital",
+      "Primeiro cartaz, ficha de turma, contrato de espaço ou registro público anterior ao vídeo de 2013.  Fontes: S108",
+      "Alta prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L14",
+      "Casa da Cultura e associação de 1990",
+      "Ata de fundação, estatuto e documentos municipais; confirmar 221/321 da Marechal Deodoro.   Fontes: A01, A02, S48",
+      "Alta prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L15",
+      "Graduações de Kauê e seus alunos",
+      "Diplomas, atas, cartazes e depoimentos dos responsáveis pela titulação.    Fontes: A03, S88, S101",
+      "Alta prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L16",
+      "Fotografia de 1998/1999",
+      "Identificação do jornal, fotógrafo e imagem original; comparar com acervo do Clube São João.  Fontes: A06, A09, A12",
+      "Alta prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L17",
+      "Vídeos antigos de Natasha Mitsue e Risadinha3112",
+      "Confirmar datas completas e contexto; o primeiro menciona capoeirabonfim.com.br. Nenhuma captura arquivada desse domínio foi validada neste dossiê.   Fontes: S111, S112",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L18",
+      "Escola mencionada por Risadinha",
+      "Nome oficial da EMEF, projeto, período e papel de cada educadora; @emefpadrenildo aparece em comentário institucional.  Fontes: S97",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L19",
+      "Fala no Ginga Palmares",
+      "Transcrição integral e identificação de entrevistador, evento e data.  Fontes: S103",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L20",
+      "Repertório e gravações do Bonfim",
+      "Encartes, autores, intérpretes, datas de gravação e autorização de uso de trechos. Catálogo atual não prova graduação antiga.   Fontes: S106, S107",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L21",
+      "Ponto de Cultura e prêmios do Aroeira",
+      "Certificação oficial, número do cadastro e atos de concessão; não basta a biografia do Instagram.  Fontes: S64",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ],
+    [
+      "L22",
+      "Documentário de Diego Alves Francisco",
+      "Ficha técnica completa, lista de entrevistados e acesso autorizado para visionamento.  Fontes: S89",
+      "Média prioridade; não amplia a contagem de núcleos"
+    ]
+  ]
+}

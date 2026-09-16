@@ -1,0 +1,405 @@
+{
+  "sheet": "Pessoas",
+  "columns": [
+    "Pessoa ou conjunto",
+    "Nome documentado",
+    "Apelido ou tratamento",
+    "Contribuição ou função",
+    "Localidade",
+    "Fontes"
+  ],
+  "rows": [
+    [
+      "P001",
+      "Reginaldo Santana",
+      "Régis",
+      "Fundador e presidente; grão mestre",
+      "Passos",
+      "S01,S02,S19,S50"
+    ],
+    [
+      "P002",
+      "Antônio Rodrigues",
+      "Mestre Antônio Rodrigues",
+      "Mestre inicial de Reginaldo; não fundador Bonfim segundo maioria das fontes",
+      "Itabuna",
+      "S01,S02"
+    ],
+    [
+      "P003",
+      "Miguel Machado",
+      "Mestre Miguel Machado",
+      "Referência de formação de Reginaldo e contatos em Ribeirão Preto",
+      "Itabuna; Ribeirão Preto",
+      "S01"
+    ],
+    [
+      "P004",
+      "Augusto Salvador Brito",
+      "Mestre Canhão",
+      "Reginaldo competiu por sua Associação Kapoeira",
+      "Ribeirão Preto",
+      "S01,S02"
+    ],
+    [
+      "P005",
+      "Carlos Alberto da Silva",
+      "Mestre Kauê",
+      "Responsável e referência do núcleo Jundiaí. Presidente no impresso de 2002; mestre já nomeado no cartaz de 1997. Ano de titulação não confirmado",
+      "Jundiaí",
+      "S10,S11,S13,S48,S49, A01, A02, A03"
+    ],
+    [
+      "P006",
+      "Helena Rodrigues da Silva",
+      "Mestra Sereia",
+      "Homenageada pela Prefeitura em 2022; oficineira em 2026. Secretária executiva em 2001/2002 e instrutora em 2002; catálogo de Ábia Lima de França atribui a titulação de mestra a Kauê",
+      "Jundiaí",
+      "S19,S75; IG Cge03A1uDb0, A01, A02, S88"
+    ],
+    [
+      "P007",
+      "Rogério Correa",
+      "Mestre Piaba",
+      "Formatura em 23/02/2019 registrada pelo núcleo; perfil rogerio_mestrepiaba. Nome e função de instrutor nos convites de 2001/2002; preservar formatura de mestre de 2019 já catalogada",
+      "Jundiaí",
+      "IG B1ldSOqnr7t, A01, A02"
+    ],
+    [
+      "P008",
+      "Robson Bernardes; equivalência com Robson Silva Bernardes PROVÁVEL",
+      "Mestre Zula",
+      "Intercâmbios São Paulo Jundiaí e créditos musicais. Aluno de Kauê e residente em São Paulo segundo relato de alunos, sem identificação nominal; liderança do Aroeira. Professor em fonte de 2013, contramestre em 2018, mestre em registro de 2022",
+      "São Paulo; Jundiaí",
+      "S25,S26,S39; IG DF-cm0hxG2L, R01, S64, S108, S110"
+    ],
+    [
+      "P009",
+      "Samuel Gustavo Ferreira",
+      "Sagu",
+      "Oficina em Passos 2014 e atuação com crianças; grafia Sagui no disco precisa cotejo",
+      "Jundiaí",
+      "S26; IG DVUE2xLj7Gi"
+    ],
+    [
+      "P010",
+      "Pepita Saloti Polido",
+      "Pepita",
+      "Autora da dissertação de 2018; participante do Bonfim",
+      "Jundiaí",
+      "S10"
+    ],
+    [
+      "P011",
+      "André Luís Fermino",
+      "Tubarão",
+      "Monitor em publicação AFROLEGADO de 2011. Declara ter iniciado com Kauê; atuação com jongo; Depoimento na Expressão Brasil. ",
+      "Jundiaí",
+      "S57, S83"
+    ],
+    [
+      "P012",
+      "Henrri Belafonte de Souza Bento",
+      "Mestre Marcão",
+      "Mestre formado por Mestre Reginaldo Santana; dirige núcleo em São Paulo distinto do Aroeira/Zula, conforme relato de alunos (R01). Supervisor de Joan segundo reportagem de 2022. Perfil se apresenta como mestre de capoeira; encontros históricos em Cananéia. Nome civil preservado da fonte histórica, não confirmado na bio.",
+      "São Paulo",
+      "S03, S24, S80, S120, R01"
+    ],
+    [
+      "P013",
+      "Marcos Antonio de Lima",
+      "Mestre Marcão",
+      "Atleta e referência em Alpinópolis; diferente de Henrri",
+      "Alpinópolis",
+      "S28,S29"
+    ],
+    [
+      "P014",
+      "Kauã Duarte de Lima",
+      "Professor Kauã",
+      "Campeão adulto médio Mineiro 2022",
+      "Alpinópolis",
+      "S28"
+    ],
+    [
+      "P015",
+      "Alberto Marcelino",
+      "Mestre Beto",
+      "Responsável histórico equipe Franca e vice Mineiro 2022",
+      "Franca",
+      "S03,S28,S36"
+    ],
+    [
+      "P016",
+      "Gilson de Jesus Silva",
+      "Mestre Gilsinho",
+      "Coordenação Vale do Ribeira; graduação em 2023",
+      "Registro",
+      "S04,S45"
+    ],
+    [
+      "P017",
+      "Joan Aparecido Santos de Oliveira",
+      "Joan ou Juan nas fontes",
+      "Ensina desde cerca de 1989; atuação social e coordenação regional",
+      "Pariquera Açu",
+      "S07,S24"
+    ],
+    [
+      "P018",
+      "NÃO CONFIRMADO",
+      "Antony",
+      "Professor histórico e responsável local",
+      "Pariquera Açu",
+      "S07,S23,S76"
+    ],
+    [
+      "P019",
+      "Marco Aurélio Campos Rios",
+      "Marco Aurélio",
+      "Responsável histórico; contramestre em 2013",
+      "Cananeia",
+      "S06,S76"
+    ],
+    [
+      "P020",
+      "NÃO CONFIRMADO",
+      "Zalber",
+      "Responsável histórico local",
+      "Cananeia",
+      "S06,S23"
+    ],
+    [
+      "P021",
+      "Lilia Gomes de Souza",
+      "Lilia",
+      "Participante e autora de relatos de encontros",
+      "Cananeia",
+      "S26,S76"
+    ],
+    [
+      "P022",
+      "NÃO CONFIRMADO",
+      "Caio",
+      "Responsável Iguape e formação cultural regional",
+      "Iguape",
+      "S08,S69"
+    ],
+    [
+      "P023",
+      "NÃO CONFIRMADO",
+      "Tyson",
+      "Responsável histórico de Eldorado",
+      "Eldorado",
+      "S09,S23"
+    ],
+    [
+      "P024",
+      "Fabiano, sobrenome não confirmado",
+      "Nanico",
+      "Aulas gratuitas anunciadas em 2022",
+      "Jacupiranga",
+      "S22,S23"
+    ],
+    [
+      "P025",
+      "Walter de Jesus Risolino",
+      "Mestre Grilo",
+      "Fundador do trabalho local; falecido maio 2015",
+      "Pitangueiras",
+      "S20"
+    ],
+    [
+      "P026",
+      "NÃO CONFIRMADO",
+      "Contramestre Kalunga",
+      "Continuidade local em registros 2017 e oficina 2026",
+      "Pitangueiras",
+      "S19,S20"
+    ],
+    [
+      "P027",
+      "NÃO CONFIRMADO",
+      "Professor Mosquito",
+      "Responsável pelas oficinas municipais e distritais",
+      "Jaboticabal",
+      "S19"
+    ],
+    [
+      "P028",
+      "Ricardo Ferreira de Moraes",
+      "Espeto Ricardo",
+      "Filial Paraná; formado por Kauê",
+      "Fazenda Rio Grande",
+      "S21"
+    ],
+    [
+      "P029",
+      "José dos Reis",
+      "Mestre Zé Reis",
+      "Graduado por Reginaldo em 2003; projetos educacionais",
+      "Piumhi",
+      "S46"
+    ],
+    [
+      "P030",
+      "José Mário Cândido",
+      "Mestre Fumaça",
+      "Bonfim local e intercâmbio internacional",
+      "Ribeirão Preto",
+      "S47,S77"
+    ],
+    [
+      "P031",
+      "Domenico de Oliveira Ribeiro",
+      "Domenico",
+      "Coordenação e apresentações locais",
+      "Carmo do Rio Claro",
+      "S30,S31"
+    ],
+    [
+      "P032",
+      "Lucy Mary Ferreira Ribeiro",
+      "Lucy",
+      "Coordenação e atuação esportiva",
+      "Carmo do Rio Claro",
+      "S30,S32"
+    ],
+    [
+      "P033",
+      "Geraldo Alves Junior",
+      "Mestre Kan",
+      "Atividade cultural na escola em 2024",
+      "Itaú de Minas",
+      "S34"
+    ],
+    [
+      "P034",
+      "NÃO CONFIRMADO",
+      "Mestre Serginho",
+      "Organização Copa Infantil em 2023",
+      "Cássia",
+      "S32"
+    ],
+    [
+      "P035",
+      "NÃO CONFIRMADO",
+      "Mestre Pedrinho",
+      "Entregou graduação de grão mestre a Reginaldo em 2012",
+      "Belo Horizonte",
+      "S03,S50"
+    ],
+    [
+      "P036",
+      "NÃO CONFIRMADO",
+      "Mestre Maciel",
+      "Referência listada no blog e presente em encontros",
+      "Passos",
+      "S03,S76"
+    ],
+    [
+      "P037",
+      "NÃO CONFIRMADO",
+      "Risadinha",
+      "Oficinas e crédito musical de homenagem a Reginaldo",
+      "Jundiaí; São Paulo",
+      "S39; IG DF-cm0hxG2L"
+    ],
+    [
+      "P038",
+      "NÃO CONFIRMADO",
+      "Ursão",
+      "Pré formatura em 2024 e intérprete em disco",
+      "São Paulo",
+      "S29,S39"
+    ],
+    [
+      "P039",
+      "NÃO CONFIRMADO",
+      "Contramestre Seu Dorival",
+      "Registro de participação aos 82 anos, segundo legenda de 2022",
+      "Jundiaí",
+      "IG CeOJypMjvm2"
+    ],
+    [
+      "P040",
+      "NÃO CONFIRMADO",
+      "Professor Coyote",
+      "Oficinas 2020 e bateria 2022",
+      "Jundiaí",
+      "IG B8O8IZeJ4e-,Cd3LrpCOjDg"
+    ],
+    [
+      "P041",
+      "NÃO CONFIRMADO",
+      "Palito, Guará, Muleka, Zulu, Santana",
+      "Docentes ou músicos em publicações; títulos variam ao longo do tempo",
+      "Jundiaí",
+      "S13; publicações catalogadas"
+    ],
+    [
+      "P042",
+      "NÃO CONFIRMADO",
+      "Mestre Braga e Alemão",
+      "Pioneiros de frentes no Vale do Ribeira",
+      "Registro; Eldorado; Cananeia",
+      "S04,S06,S09"
+    ],
+    [
+      "P043",
+      "Contra Mestre Brasileiro",
+      "Contra Mestre Brasileiro",
+      "Integrante da equipe atual do Aroeira; Graduação e função declaradas na biografia; formação completa a apurar. ",
+      "São Paulo",
+      "S64"
+    ],
+    [
+      "P044",
+      "Renato Baptista",
+      "Monge",
+      "Instrutor nos convites de 2001/2002; Não há confirmação de sua função atual. ",
+      "Jundiaí",
+      "A01, A02"
+    ],
+    [
+      "P045",
+      "Alessandro F. de Souza",
+      "Ébano",
+      "Instrutor no convite de 2001; Relação de trabalho documentada; graduação posterior não determinada. ",
+      "Jundiaí",
+      "A02"
+    ],
+    [
+      "P046",
+      "Benedito Carlos de Paulo",
+      "Babuíno",
+      "Instrutor em 2001; forma abreviada Benedito Carlos em 2002; Preservar as grafias dos originais. ",
+      "Jundiaí",
+      "A01, A02"
+    ],
+    [
+      "P047",
+      "Nivaldo Gardel",
+      "Puma",
+      "Instrutor em 2001; Função registrada na lista, sem trajetória posterior estabelecida. ",
+      "Jundiaí",
+      "A02"
+    ],
+    [
+      "P048",
+      "Daniel",
+      "Blécão",
+      "Instrutor em 2001/2002; Nome completo e trajetória a confirmar. ",
+      "Jundiaí",
+      "A01, A02"
+    ],
+    [
+      "P049",
+      "Camila Munhoz",
+      "Camila Munhoz",
+      "Proponente da ação cultural do Bonfim selecionada em 2023; Função administrativa específica; não prova cargo permanente. ",
+      "Jundiaí",
+      "S85"
+    ]
+  ]
+}

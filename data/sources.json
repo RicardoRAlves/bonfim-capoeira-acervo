@@ -1,0 +1,1215 @@
+{
+  "sheet": "Fontes",
+  "columns": [
+    "Fonte",
+    "Título",
+    "Autor ou editor",
+    "Publicação ou atualização",
+    "Acesso",
+    "URL original",
+    "Informação utilizada",
+    "Confiança e limites"
+  ],
+  "rows": [
+    [
+      "S01",
+      "Memórias da Capoeira em Minas Gerais",
+      "Saberes Tradicionais UFMG",
+      "2026-03-24",
+      "2026-09-11",
+      "https://www.saberestradicionais.org/estreia-da-serie-memorias-da-capoeira-em-minas-gerais/",
+      "Biografia fornecida por Reginaldo; episódio 19; títulos autodeclarados",
+      "ALTA para atribuição; MÉDIA para biografia não corroborada"
+    ],
+    [
+      "S02",
+      "Homenagem ao Mestre Reginaldo Santana",
+      "Portal Capoeira, Luciano Milani",
+      "2012-03-28",
+      "2026-09-11",
+      "https://portalcapoeira.com/capoeira/eventos-agenda/cananeia-foi-o-meu-mestre-quem-me-ensinou-homenagem-ao-mestre-reginaldo-santana/",
+      "Anúncio 21–22 abril 2012; biografia e mestres convidados",
+      "MÉDIA"
+    ],
+    [
+      "S03",
+      "Nossos mestres",
+      "Bonfim Vale do Ribeira",
+      "s.d.; blog ativo em 2011",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/grandes-mestres.html",
+      "Sete retratos identificados e cidades; títulos divergentes",
+      "ALTA para autoapresentação histórica"
+    ],
+    [
+      "S04",
+      "Quem somos",
+      "Bonfim Vale do Ribeira",
+      "s.d.; contexto histórico do blog",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/quem-somos_28.html",
+      "Origem regional, coordenação em 2000 e vínculo com Passos",
+      "ALTA para memória institucional; dados atuais não confirmados"
+    ],
+    [
+      "S05",
+      "Registro",
+      "Bonfim Vale do Ribeira",
+      "s.d.",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/registro.html",
+      "Gilsinho e cinco locais históricos de aula",
+      "MÉDIA"
+    ],
+    [
+      "S06",
+      "Cananéia",
+      "Bonfim Vale do Ribeira",
+      "s.d.",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/cananeia.html",
+      "Fundação em 1994 e responsáveis",
+      "MÉDIA"
+    ],
+    [
+      "S07",
+      "Pariquera Açu",
+      "Bonfim Vale do Ribeira",
+      "s.d.",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/pariquera-acu.html",
+      "Fundação 1987 e sucessão de professores",
+      "MÉDIA"
+    ],
+    [
+      "S08",
+      "Iguape",
+      "Bonfim Vale do Ribeira",
+      "s.d.",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/iguape.html",
+      "Caio, Daniel, Fernanda, Pescoço; cinco locais históricos",
+      "MÉDIA"
+    ],
+    [
+      "S09",
+      "Eldorado",
+      "Bonfim Vale do Ribeira",
+      "s.d.",
+      "2026-09-11",
+      "https://capoeirasenhordobonfim.blogspot.com/p/eldorado.html",
+      "Início 1986, Braga/Alemão, Tyson e interrupção histórica",
+      "MÉDIA"
+    ],
+    [
+      "S10",
+      "Capoeira na escola política ética e estética na roda",
+      "Pepita Saloti Polido, UNESP",
+      "2018",
+      "2026-09-11",
+      "https://repositorio.unesp.br/server/api/core/bitstreams/79491da0-402b-48c7-a8a6-df0dad851b8a/content",
+      "Dissertação UNESP; p.13 (PDF15) história; p.101 nota30 (PDF103) bateria e escola regional",
+      "ALTA para documento acadêmico; memória biográfica requer cotejo"
+    ],
+    [
+      "S11",
+      "A capoeira campeã do Mestre Kauê",
+      "Prefeitura de Jundiaí, Fábio Frattini Manzini",
+      "2013-07-24",
+      "2026-09-11",
+      "https://jundiai.sp.gov.br/noticias/2013/07/24/a-capoeira-campea-do-mestre-kaue/",
+      "História, pedagogia, equipe, resultados e fotografias Alessandro Rosman",
+      "ALTA para evento; idades divergentes"
+    ],
+    [
+      "S12",
+      "Associação de Capoeira Nosso Senhor do Bonfim Jundiaí",
+      "Rede Cultura Viva",
+      "atualizado 2026-02-10",
+      "2026-09-11",
+      "https://culturaviva.cultura.gov.br/agente/8216895/",
+      "Cadastro, contato e indicação de galeria e vídeo 30 anos",
+      "MÉDIA; página indexada, acesso direto limitado"
+    ],
+    [
+      "S13",
+      "Capoeira Bonfim Jundiaí",
+      "Instagram do núcleo",
+      "consulta 2026-09-11",
+      "2026-09-11",
+      "https://www.instagram.com/capoeirabonfimjundiai/",
+      "Bio desde 1990, Mestre Kauê, endereço, posts e destaques públicos",
+      "ALTA para autoapresentação atual"
+    ],
+    [
+      "S14",
+      "Horários de treino",
+      "Instagram do núcleo Jundiaí",
+      "2025-04-12",
+      "2026-09-11",
+      "https://www.instagram.com/p/DIWX2MBRnsR/",
+      "Quadro de aulas e experimental gratuita; reconfirmar vigência",
+      "ALTA para oferta na data"
+    ],
+    [
+      "S15",
+      "Capoeira Bonfim Jundiaí",
+      "Lalaue",
+      "s.d.",
+      "2026-09-11",
+      "https://www.lalaue.com/jundiai/capoeira-bonfim-jundiai/",
+      "E-mail e canal YouTube; horários não adotados",
+      "MÉDIA para diretório"
+    ],
+    [
+      "S16",
+      "Apresentação de capoeira",
+      "Colégio Memorial Jundiaí",
+      "2014-02-18",
+      "2026-09-11",
+      "https://colegiomemorialjdi.blogspot.com/2014/02/apresentacao-de-capoeira.html",
+      "Registro escolar e galeria",
+      "ALTA para atividade da escola"
+    ],
+    [
+      "S17",
+      "Cultura negra é celebrada no Espaço Expressa",
+      "Prefeitura de Jundiaí",
+      "2022-11-20",
+      "2026-09-11",
+      "https://jundiai.sp.gov.br/noticias/2022/11/20/semana-da-consciencia-negra-cultura-negra-e-celebrada-no-espaco-expressa/",
+      "Programação com Bonfim Capoeira Regional",
+      "ALTA para programação anunciada"
+    ],
+    [
+      "S18",
+      "Capoeirando em Jundiaí SP",
+      "Professor Paulista",
+      "2010-05",
+      "2026-09-11",
+      "https://profpaulista.blogspot.com/2010/05/capoeirando-em-jundiai-sp.html",
+      "Fotografias de roda e anúncio XVIII batizado",
+      "MÉDIA"
+    ],
+    [
+      "S19",
+      "Batizado reúne 150 participantes",
+      "Prefeitura de Jaboticabal",
+      "2026-07-28",
+      "2026-09-11",
+      "https://www.jaboticabal.sp.gov.br/portal/noticias/0/3/18920/capoeira-batizado-reune-150-participantes-celebrando-cultura-e-inclusao",
+      "7º batizado em 25/07; Mosquito, Sereia e Kalunga",
+      "ALTA"
+    ],
+    [
+      "S20",
+      "Batizado e troca de graduação",
+      "Prefeitura de Pitangueiras",
+      "2017-11-14",
+      "2026-09-11",
+      "https://pitangueiras.sp.gov.br/batizado-e-troca-de-graduaa%C2%A7ao-movimenta-capoeiristas-de-pitangueiras-e-regiao/",
+      "Grilo e sucessores; 52 batizados e 75 alunos; abrangência nacional declarada",
+      "ALTA para evento; MÉDIA para abrangência"
+    ],
+    [
+      "S21",
+      "Nosso Senhor do Bonfim Núcleo Paraná",
+      "Portal da Capoeira IPHAN, cadastro autodeclarado",
+      "atualizado 2020-03-29",
+      "2026-09-15",
+      "https://capoeira.iphan.gov.br/grupo/infor/1007",
+      "Fazenda Rio Grande, filial declarada de 2010; Ricardo Ferreira de Moraes, Professor Espeto Ricardo, declara formação por Kauê. Reconsulta em 15/09/2026.",
+      "ALTA para existência e conteúdo do cadastro; funcionamento atual não confirmado"
+    ],
+    [
+      "S22",
+      "Capoeira em Jacupiranga",
+      "O Vale do Ribeira",
+      "2022-05-06",
+      "2026-09-11",
+      "https://www.ovaledoribeira.com.br/2022/05/capoeira-em-jacupiranga.html",
+      "Aulas gratuitas anunciadas com Fabiano Nanico",
+      "MÉDIA"
+    ],
+    [
+      "S23",
+      "III etapa do Torneio Interno Bonfim",
+      "Rede Cananéia",
+      "2012-08",
+      "2026-09-11",
+      "https://redecananeia.blogspot.com/2012/08/grupo-nosso-senhor-do-bonfim-realiza.html",
+      "Seis cidades e respectivos responsáveis",
+      "ALTA para memória do organizador"
+    ],
+    [
+      "S24",
+      "História do Professor Joan",
+      "Viva Pariquera",
+      "2022-12-19",
+      "2026-09-11",
+      "https://vivapariquera.com.br/noticia/4599/conheca-a-historia-do-professor-joan-fundador-da-associacao-de-capoeira-nosso-senhor-do-bonfim-de-pariquera-acu/amp",
+      "Trajetória desde 1987, gratuidade, nomes e contatos públicos",
+      "MÉDIA; depoimentos e números declarados"
+    ],
+    [
+      "S25",
+      "4º Torneio Interno Bonfim Vale do Ribeira",
+      "Vale Jornalismo Online, Melquisedeque J Santos",
+      "2024-09-06",
+      "2026-09-11",
+      "https://valejornalismoonline.com.br/publicacao/esportes/4-torneio-interno-bonfim-capoeira-vale-do-ribeira-um-espetaculo-de-talento-e-tradicao",
+      "Evento 01/09/2024 em Iguape, resultados, cinco fotos e vídeo",
+      "MÉDIA"
+    ],
+    [
+      "S26",
+      "Evento de finalização de ano da Capoeira Bonfim",
+      "Rede Cananéia",
+      "2014-12-20",
+      "2026-09-11",
+      "https://redecananeia.blogspot.com/2014/12/evento-de-finalizacao-de-ano-da-capoeira.html?m=0",
+      "Passos 6–7 dezembro, oficinas de berimbau, Sagu e Lilia",
+      "ALTA para relato da participante"
+    ],
+    [
+      "S27",
+      "Grupos São Gonçalo e Nosso Senhor do Bonfim",
+      "Grupo São Gonçalo",
+      "2013-01",
+      "2026-09-11",
+      "https://gruposaogoncalo.blogspot.com/2013/01/grupos-sao-goncalo-e-nosso-senhor-do.html",
+      "Apresentações a visitantes do Turismo do Saber",
+      "ALTA para relato institucional local"
+    ],
+    [
+      "S28",
+      "Campeões vice campeões e terceiros Mineiro Lavras",
+      "CCDB",
+      "2022",
+      "2026-09-11",
+      "https://ccdb.org.br/wp-content/uploads/2023/04/RELACAO-DOS-CAMPEOES-VICE-CAMPEOES-E-3o-COLOCADOS-NO-CAMPEONATO-MINEIRO-DE-CAPOEIRA-NA-CIDADE-DE-LAVRAS.-2022.pdf",
+      "Resultados de Franca, Alpinópolis e Passos; PDF p.5–6",
+      "ALTA"
+    ],
+    [
+      "S29",
+      "Mestre Reginaldo participa de pré formatura em São Paulo",
+      "Clic Folha, Ézio Santos",
+      "2024-08-31",
+      "2026-09-11",
+      "https://clicfolha.com.br/mestre-reginaldo-participa-de-pre-formatura-em-sao-paulo/",
+      "CEU Jambeiro, Ursão, Marcão e Kauã de Alpinópolis, retrato do fundador",
+      "MÉDIA; idade diverge"
+    ],
+    [
+      "S30",
+      "Atletas carmelitanos são destaque em festival da AMEG",
+      "Prefeitura de Carmo do Rio Claro",
+      "data a conferir",
+      "2026-09-11",
+      "https://www.carmodorioclaro.mg.gov.br/portal/noticias/0/3/3225/atletas-carmelitanos-sao-destaque-em-festival-da-ameg",
+      "Resultados e coordenadores Domenico e Lucy",
+      "ALTA para evento"
+    ],
+    [
+      "S31",
+      "Primeira edição do DFL de Muay Thai movimenta Carmo",
+      "Clic Folha, Bianca Simionato",
+      "2025-04-30",
+      "2026-09-11",
+      "https://clicfolha.com.br/primeira-edicao-do-dfl-de-muay-thai-movimenta-carmo/",
+      "Apresentação Bonfim em 27/04/2025 sob Domenico",
+      "MÉDIA"
+    ],
+    [
+      "S32",
+      "Carmo conquista primeiro lugar na Copa Infantil",
+      "Portal Onda Sul",
+      "2023-12-05",
+      "2026-09-11",
+      "https://www.portalondasul.com.br/carmo-do-rio-claro-conquista-o-1o-lugar-na-primeira-copa-infantil-de-capoeira/",
+      "Evento 03/12 Cássia, Serginho, Domenico, Lucy e Juliano",
+      "MÉDIA"
+    ],
+    [
+      "S33",
+      "Primeiro encontro de batizado e troca de cordas",
+      "Prefeitura de Fortaleza de Minas",
+      "2019-11-21",
+      "2026-09-11",
+      "https://www.fortalezademinas.mg.gov.br/portal/0/galeria-de-fotos/908/----1-encontro-de-batizado-e-troca-de-cordas-de-capoeira------/",
+      "Evento CRAS 17/11/2019 e cinco fotos; URL posteriormente retornou 404",
+      "ALTA para notícia histórica indexada"
+    ],
+    [
+      "S34",
+      "Relatório municipal de atividades culturais",
+      "Prefeitura de Itaú de Minas",
+      "2025; atividade 2024-11-21",
+      "2026-09-11",
+      "https://ecrie.com.br/sistema/conteudos/arquivo/a_108_2_4_09042025193914.pdf",
+      "Mestre Kan, Geraldo Alves Junior, escola e Consciência Negra; trecho indexado, PDF integral indisponível na revisão",
+      "ALTA para documento municipal; acesso parcial"
+    ],
+    [
+      "S35",
+      "Lei 2447 de 2019",
+      "Câmara Municipal de Piumhi",
+      "2019",
+      "2026-09-11",
+      "https://sapl.piumhi.mg.leg.br/media/sapl/public/normajuridica/2019/2345/lei_no_2447-2019.pdf",
+      "Previsão de recurso para associação; não comprova execução",
+      "ALTA para ato administrativo"
+    ],
+    [
+      "S36",
+      "Capoeiristas de Franca são campeões em Minas",
+      "Sampi Comércio da Franca",
+      "2007-05-31",
+      "2026-09-11",
+      "https://sampi.net.br/franca/noticias/1304120/outros/2007/05/capoeiristas-de-franca-seatildeo-campeeotildees-em-minas-gerais",
+      "Copa Piumhi, Alberto Marcelino e oito medalhas",
+      "MÉDIA"
+    ],
+    [
+      "S37",
+      "Jovens capoeiristas trocam de corda",
+      "Sampi Comércio da Franca",
+      "2008-09-28",
+      "2026-09-11",
+      "https://sampi.net.br/franca/noticias/1320591/esporte/2008/09/jovens-capoeiristas-trocam-de-corda-no-seaacutebado",
+      "Projeto Veredas, 20 crianças e referência a nove núcleos Jundiaí",
+      "MÉDIA"
+    ],
+    [
+      "S38",
+      "Primeira edição Copa Passos",
+      "Prefeitura de Passos",
+      "2019-07-23",
+      "2026-09-11",
+      "https://www.passos.mg.gov.br/portal/noticias/0/3/1708/1-edicao-copa-passos",
+      "PECRA e Bonfim, cerca de 300 atletas; erro no dia da semana",
+      "ALTA para realização; data exata divergente"
+    ],
+    [
+      "S39",
+      "É Assim Que a Banda Toca",
+      "Amazon Music",
+      "metadado 2012-02-01",
+      "2026-09-11",
+      "https://music.amazon.in/albums/B0BBXDMX6N",
+      "Álbum 14 faixas; créditos de intérprete não equivalem a autoria",
+      "ALTA para catálogo digital"
+    ],
+    [
+      "S40",
+      "Tudo que a capoeira toca",
+      "Pandu Filmes",
+      "2026-04-10",
+      "2026-09-11",
+      "https://www.pandufilmes.com/tudo-que-capoeira-toca/",
+      "Filme musical 80 minutos; Reginaldo entre 18 mestres",
+      "ALTA"
+    ],
+    [
+      "S41",
+      "Capoeira circle",
+      "UNESCO",
+      "2014",
+      "2026-09-11",
+      "https://ich.unesco.org/en/RL/capoeira-circle-00892",
+      "Inscrição da roda em lista representativa; contexto cultural",
+      "ALTA"
+    ],
+    [
+      "S42",
+      "Ofício dos Mestres de Capoeira",
+      "IPHAN Banco de Bens Culturais",
+      "registro 2008; revalidação 2024",
+      "2026-09-11",
+      "https://bcr.iphan.gov.br/bens-culturais/oficio-dos-mestres-de-capoeira/",
+      "Registro e denominação Mestres e Mestras",
+      "ALTA"
+    ],
+    [
+      "S43",
+      "Dossiê IPHAN 12 Capoeira",
+      "IPHAN",
+      "s.d. nesta consulta",
+      "2026-09-11",
+      "https://portal.iphan.gov.br/uploads/publicacao/DossieCapoeiraWeb.pdf",
+      "História, roda, música e transmissão",
+      "ALTA"
+    ],
+    [
+      "S44",
+      "Mapeamento da capoeira em Minas Gerais",
+      "IPHAN",
+      "s.d. nesta consulta",
+      "2026-09-11",
+      "https://inrc.iphan.gov.br/wp-content/uploads/tainacan-items/26488/114479/Capoeira-Mapeamentos_arq_Texto-Capoeira_REVISADO_-Final.pdf",
+      "Tabela no PDF p.33 registra Senhor do Bonfim Passos 1977; dado declarado diverge de 1978",
+      "ALTA para existência do registro; MÉDIA para data biográfica"
+    ],
+    [
+      "S45",
+      "Registro tem novo Mestre de Cultura Popular",
+      "Registro Diário, Fagner Vieira",
+      "2023-10-23",
+      "2026-09-11",
+      "https://registrodiario.com.br/noticia/3695/registro-tem-novo-mestre-de-cultura-popular-capoeira-apos-20-anos",
+      "Gilsinho graduado 14/10/2023 por Marcão e Reginaldo; menciona fundação 1979",
+      "MÉDIA"
+    ],
+    [
+      "S46",
+      "José dos Reis Mestre Zé Reis",
+      "Portal da Capoeira IPHAN, autodeclaração",
+      "atualizado 2017-10-02",
+      "2026-09-11",
+      "https://capoeira.iphan.gov.br/user/infor/998",
+      "Graduação 2003 em Passos por Reginaldo, ensino e projetos",
+      "ALTA para autodeclaração; campo grupo vazio"
+    ],
+    [
+      "S47",
+      "Workshops de capoeira irão compartilhar vivências e técnicas",
+      "Prefeitura de Ribeirão Preto",
+      "2023-03-24",
+      "2026-09-11",
+      "https://www.ribeiraopreto.sp.gov.br/portal/noticia/workshops-de-capoeira-irao-compartilhar-vivencias-e-tecnicas",
+      "Mestre Fumaça do Bonfim local; Reginaldo convidado",
+      "ALTA"
+    ],
+    [
+      "S48",
+      "Breve história do Grupo Senhor do Bonfim",
+      "Madruga Capoeira Oficial",
+      "s.d.",
+      "2026-09-11",
+      "https://madrugacapoeira.webnode.page/breve-historia-do-grupo-senhor-do-bonfim/",
+      "Setembro 1988 Kauê Jundiaí e 02/02/1990 Casa da Cultura",
+      "MÉDIA"
+    ],
+    [
+      "S49",
+      "Silva Carlos Alberto da",
+      "Jundpedia",
+      "s.d.",
+      "2026-09-11",
+      "https://jundpedia.com.br/silva-carlos-alberto-da/",
+      "Kauê nascido Passos 15/11/1966; início 20/05/1979; divergência Uberaba",
+      "MÉDIA"
+    ],
+    [
+      "S50",
+      "Homenagem ao fundador realizada em abril",
+      "Rede Cananéia",
+      "2012-05-04",
+      "2026-09-11",
+      "https://redecananeia.blogspot.com/2012/05/grupo-de-capoeira-nosso-senhor-do.html",
+      "Relato individual do evento de 21/04/2012; título entregue por Pedrinho; cinco imagens associadas",
+      "ALTA para relato do evento"
+    ],
+    [
+      "S51",
+      "Bonfim Capoeira álbuns públicos",
+      "Facebook bonfim.capoeira",
+      "histórico 2008–2012",
+      "2026-09-11",
+      "https://www.facebook.com/bonfim.capoeira/photos_albums",
+      "38 fotos públicas dos Regionais; outros álbuns restritos excluídos",
+      "ALTA para publicação do grupo"
+    ],
+    [
+      "S52",
+      "52º Jogos Regionais Itu 2008",
+      "Facebook Bonfim Capoeira",
+      "evento 19–20/07/2008; postagem posterior",
+      "2026-09-11",
+      "https://www.facebook.com/media/set/?set=a.107146286067936&type=3",
+      "11 fotografias e resultados atribuídos ao grupo",
+      "MÉDIA para resultados; ALTA para existência das fotos"
+    ],
+    [
+      "S53",
+      "53º Jogos Regionais São Roque 2009",
+      "Facebook Bonfim Capoeira",
+      "evento 03–04/07/2009",
+      "2026-09-11",
+      "https://www.facebook.com/media/set/?set=a.107134819402416&type=3",
+      "Oito fotografias e resultados",
+      "MÉDIA para resultados"
+    ],
+    [
+      "S54",
+      "54º Jogos Regionais Itu 2010",
+      "Facebook Bonfim Capoeira",
+      "evento 26–27/07/2010",
+      "2026-09-11",
+      "https://www.facebook.com/media/set/?set=a.107164192732812&type=3",
+      "Dez fotografias e resultados",
+      "MÉDIA para resultados"
+    ],
+    [
+      "S55",
+      "55º Jogos Regionais Itapetininga 2011",
+      "Facebook Bonfim Capoeira",
+      "evento 12–13/07/2011",
+      "2026-09-11",
+      "https://www.facebook.com/media/set/?set=a.107112136071351&type=3",
+      "Nove fotografias e resultados",
+      "MÉDIA para resultados"
+    ],
+    [
+      "S56",
+      "Sistema de graduações",
+      "Facebook Bonfim Capoeira",
+      "2011-11-21",
+      "2026-09-11",
+      "https://www.facebook.com/photo/?fbid=109225275860037&set=a.109225212526710",
+      "Tabela histórica infantil e padrão; referência FICA",
+      "ALTA para norma divulgada em 2011"
+    ],
+    [
+      "S57",
+      "Festival AFROLEGADO",
+      "Facebook Bonfim Capoeira",
+      "2011-12-05; evento 03/12",
+      "2026-09-11",
+      "https://www.facebook.com/photo/?fbid=119348044847760&set=a.110864222362809",
+      "Publicação pública sobre Projeto Crescer e Tubarão",
+      "ALTA para memória institucional"
+    ],
+    [
+      "S58",
+      "Ginga em Família",
+      "Facebook Bonfim Capoeira",
+      "2011-11-23; evento 29/10",
+      "2026-09-11",
+      "https://www.facebook.com/photo/?fbid=110864225696142&set=a.110864222362809",
+      "Publicação pública Escola da Família Guaianases",
+      "ALTA para publicação histórica"
+    ],
+    [
+      "S59",
+      "Mestre Régis Memórias da Capoeira",
+      "YouTube, série UFMG/IPHAN",
+      "2026; produção não datada separadamente",
+      "2026-09-11",
+      "https://www.youtube.com/watch?v=fJL4W9urgxs",
+      "Entrevista/depoimento audiovisual; conteúdo integral não transcrito",
+      "ALTA para existência vinculada ao projeto"
+    ],
+    [
+      "S60",
+      "Capoeira Bonfim Jundiaí canal",
+      "YouTube",
+      "s.d.",
+      "2026-09-11",
+      "https://www.youtube.com/channel/UCN2ixjZTYzwpUTtr9ZdvhAg",
+      "Canal ligado ao núcleo pelo diretório Lalaue",
+      "MÉDIA até confirmação direta"
+    ],
+    [
+      "S61",
+      "Capoeira circle vídeo",
+      "UNESCO",
+      "s.d.",
+      "2026-09-11",
+      "https://ich.unesco.org/en/video/31116",
+      "Vídeo de contextualização patrimonial",
+      "ALTA"
+    ],
+    [
+      "S62",
+      "Bonfim em Santa Rita de Jacutinga",
+      "Circuito Serras de Ibitipoca",
+      "2024-05-22",
+      "2026-09-11",
+      "https://circuitoserrasdeibitipoca.com.br/santa-rita-de-jacutinga-grupo-de-capoeira-bonfim-se-apresenta-na-festa-de-maio/",
+      "Grupo de Mestre Pinheiro fundado 1972 em Juiz de Fora; homônimo distinto",
+      "ALTA para distinguir grupos"
+    ],
+    [
+      "S63",
+      "Homenagens a mestres em Ribeirão Preto",
+      "Prefeitura de Ribeirão Preto",
+      "2018",
+      "2026-09-11",
+      "https://www.ribeiraopreto.sp.gov.br/J332/noticia/39753",
+      "Menciona Alemanha/Portugal e atribuição confusa de fundador",
+      "MÉDIA; contém erros"
+    ],
+    [
+      "S64",
+      "Bonfim Capoeira São Paulo",
+      "Instagram",
+      "consulta 2026-09-11",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/",
+      "Perfil lido em 14/09/2026: Núcleo Aroeira SP, zona leste, Zula, Brasileiro, Ursão e Risadinha. Ponto de Cultura autodeclarado; certificado não examinado.",
+      "ALTA para autoapresentação na consulta; demais afirmações delimitadas"
+    ],
+    [
+      "S65",
+      "Bonfim Capoeira Franca",
+      "Instagram",
+      "consulta 2026-09-11",
+      "2026-09-11",
+      "https://www.instagram.com/bonfimcapoeira_franca/",
+      "Perfil localizado por busca; confirmar administração",
+      "BAIXA para situação atual"
+    ],
+    [
+      "S66",
+      "Bonfim Capoeira Iguape",
+      "Instagram",
+      "consulta 2026-09-11",
+      "2026-09-11",
+      "https://www.instagram.com/bonfimcapoeira_iguape/",
+      "Perfil localizado; cruzado com núcleo histórico",
+      "MÉDIA"
+    ],
+    [
+      "S67",
+      "Bonfim Capoeira Jaboticabal",
+      "Instagram",
+      "consulta 2026-09-11",
+      "2026-09-11",
+      "https://www.instagram.com/bonfimcapoeirajaboticabal/",
+      "Perfil localizado; atividade comprovada por Prefeitura",
+      "MÉDIA"
+    ],
+    [
+      "S68",
+      "Capoeira Bonfim Pariquera",
+      "Instagram",
+      "referenciado em 2022",
+      "2026-09-11",
+      "https://www.instagram.com/capoeira_bonfim1f/",
+      "Canal público indicado por Viva Pariquera",
+      "MÉDIA"
+    ],
+    [
+      "S69",
+      "Maculelê Filhos de Cananéia",
+      "Bonfim Vale do Ribeira",
+      "s.d.; atividade desde 2011",
+      "2026-09-12",
+      "https://capoeirasenhordobonfim.blogspot.com/p/maculele-filhos-de-cananeia.html",
+      "Oficinas Caio e Kauê, quatro imagens, repertórios culturais",
+      "ALTA para autodescrição histórica"
+    ],
+    [
+      "S70",
+      "Maracatu Princesa do Litoral",
+      "Bonfim Vale do Ribeira",
+      "s.d.; criação declarada 01/12/2008",
+      "2026-09-12",
+      "https://capoeirasenhordobonfim.blogspot.com/p/maracatu-princesa-do-litoral.html",
+      "Coletivo de Iguape, cinco fotos e símbolo; relação cultural, não filial separada",
+      "MÉDIA"
+    ],
+    [
+      "S71",
+      "Vídeos",
+      "Bonfim Vale do Ribeira",
+      "s.d.; festival 2011",
+      "2026-09-12",
+      "https://capoeirasenhordobonfim.blogspot.com/p/nossos-videos.html",
+      "Quatro vídeos incorporados",
+      "ALTA para localização; reprodução não testada"
+    ],
+    [
+      "S72",
+      "Regis formando o monitor Silvinho",
+      "Professor Paulista",
+      "2010-05-20",
+      "2026-09-12",
+      "https://profpaulista.blogspot.com/2010/05/regis-formando-o-monitor-silvinho.html",
+      "Pista de vídeo histórico, incorporador antigo",
+      "MÉDIA"
+    ],
+    [
+      "S73",
+      "Evento em Cananéia 2009",
+      "Professor Paulista",
+      "2010-05",
+      "2026-09-12",
+      "https://profpaulista.blogspot.com/2010/05/evento-em-cananeia-2009.html",
+      "Pista de registro audiovisual antigo",
+      "MÉDIA"
+    ],
+    [
+      "S74",
+      "Batizado em Jundiaí",
+      "Professor Paulista",
+      "2010-05",
+      "2026-09-12",
+      "https://profpaulista.blogspot.com/2010/05/batizado-em-jundiai.html",
+      "Registro audiovisual histórico",
+      "MÉDIA"
+    ],
+    [
+      "S75",
+      "Jundiaí homenageia mulheres na Semana da Tereza de Benguela",
+      "Prefeitura de Jundiaí",
+      "2022-07-26",
+      "2026-09-12",
+      "https://jundiai.sp.gov.br/noticias/2022/07/26/jundiai-homenageia-mulheres-na-semana-da-tereza-de-benguela/",
+      "Helena Rodrigues da Silva, Mestra Sereia, homenageada em 25/07",
+      "ALTA"
+    ],
+    [
+      "S76",
+      "Capoeira do Vale do Ribeira em encontro em Minas Gerais",
+      "Rede Cananéia, Lilia Gomes de Souza",
+      "2013-12-20",
+      "2026-09-12",
+      "https://redecananeia.blogspot.com/2013/12/capoeira-do-vale-do-ribeira-se.html",
+      "Encontro 6–8 dezembro Passos; oficinas e participantes",
+      "ALTA para relato participante"
+    ],
+    [
+      "S77",
+      "Ex menino de rua é embaixador da capoeira no exterior",
+      "Prefeitura de Ribeirão Preto",
+      "2017-07-07",
+      "2026-09-12",
+      "https://www.coderp.sp.gov.br/portal/noticia/ex-menino-de-rua-e-o-embaixador-da-capoeira-no-exterior",
+      "José Mário Cândido, Fumaça; viagens Alemanha e Ucrânia, não prova filiais",
+      "MÉDIA para relação com matriz Passos"
+    ],
+    [
+      "S78",
+      "Ginga que Educa representa Jaboticabal em Minas Gerais",
+      "Prefeitura de Jaboticabal",
+      "2026-07-28",
+      "2026-09-12",
+      "https://www.jaboticabal.sp.gov.br/portal/noticias/0/3/18916/capoeira-projeto-ginga-que-educa-representa-jaboticabal-em-minas-gerais",
+      "Projeto sob Mestre Flávio distinto do relato Bonfim/Mosquito; evitar fusão",
+      "ALTA"
+    ],
+    [
+      "S79",
+      "Iniciativas Populares Resultado",
+      "Ministério das Cidades",
+      "2025-11",
+      "2026-09-12",
+      "https://mapadasperiferias.cidades.gov.br/wp-content/uploads/2025/11/Iniciativas-Populares-Resultado.pdf",
+      "Bonfim Núcleo Liberdade MG localizado; vínculo Reginaldo não confirmado",
+      "ALTA para cadastro; BAIXA para afiliação"
+    ],
+    [
+      "S80",
+      "Notícias: Encontro de Culturas Afro-brasileiras em Cananéia",
+      "Capoeira Nosso Senhor do Bonfim / blog do grupo",
+      "sem ano explícito no relato",
+      "2026-09-15",
+      "https://capoeirasenhordobonfim.blogspot.com/p/noticias_25.html",
+      "Relato de encontro de 15–16 de outubro; presença de Kauê, Marcão, Régis, Joan, Maciel e Fumaça; fotografias legendadas.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S81",
+      "Capoeira agita o fim de semana no bairro da Colônia",
+      "Luiza Oliveira / Prefeitura de Jundiaí; foto de Cleber Almeida",
+      "14/02/2014",
+      "2026-09-15",
+      "https://jundiai.sp.gov.br/noticias/2014/02/14/capoeira-agita-o-fim-de-semana-no-bairro-da-colonia/",
+      "Anúncio de evento de 15–16/02/2014 no Romão de Souza.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S82",
+      "Mulheraça chega a São Paulo",
+      "Maíra Gomes / Capoeira de Toda Maneira",
+      "05/09/2013",
+      "2026-09-15",
+      "https://capoeiradetodamaneira.blogspot.com/2013/09/mulheraca-chega-sao-paulo.html",
+      "Programação em Salesópolis e Biritiba; Professor Zula anunciado para primeiros socorros; Contramestra Sereia também citada.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S83",
+      "Rodas de Capoeira — depoimento de André Luís Fermino (Tubarão)",
+      "Associação Cultural Expressão Brasil",
+      "sem data editorial identificada",
+      "2026-09-15",
+      "https://expressaobrasil.org.br/rodas-de-capoeira/",
+      "Depoimento em primeira pessoa: início com Kauê nos anos 1990 e atuação com jongo. Expressão Brasil é organização distinta.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S84",
+      "Prefeitura de Louveira realizou 2º Festival de Capoeira",
+      "Prefeitura de Louveira",
+      "16/05/2023",
+      "2026-09-15",
+      "https://www.louveira.sp.gov.br/conteudo/prefeitura-de-louveira-realizou-2-festival-de-capoeira",
+      "Oficina de Kauê em 12/05/2023 no CEAM. Conteúdo indexado consultado; abertura integral oscilou.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S85",
+      "CulturaMais 2023/2024 — resultado de julgamento e seleção",
+      "Imprensa Oficial de Jundiaí, edição 5332",
+      "13/09/2023",
+      "2026-09-15",
+      "https://imprensaoficial.jundiai.sp.gov.br/wp-content/uploads/2023/09/50b07ff7-6a01-416f-bd96-3f6dd68abd22_Edicao-5332-13-09-2023.pdf#page=90",
+      "Concurso 04/2023, processo 2943/2023; cabeçalho p. 86; proposta Roda de Capoeira e suas Ramificações, p. 90.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S86",
+      "PNAB — etapa de seleção do Edital 18/2024, manifestações populares",
+      "Imprensa Oficial de Jundiaí, edição 5593",
+      "14/02/2025",
+      "2026-09-15",
+      "https://cultura.jundiai.sp.gov.br/wp-content/uploads/2025/02/IOM-Etapa-de-Selecao-17.2024-PNAB-Projetos.pdf#page=6",
+      "Página impressa 20, sexta página do recorte. Embora o nome do arquivo mencione Edital 17, a tabela relevante está sob Edital 18.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S87",
+      "PNAB — resultado de habilitação do Edital 18/2024, premiação cultural",
+      "Imprensa Oficial de Jundiaí, edição 5613",
+      "02/04/2025",
+      "2026-09-15",
+      "https://cultura.jundiai.sp.gov.br/wp-content/uploads/2025/04/Resultado-Habilitacao-18-PNAB-Premiacao.pdf",
+      "Página impressa 31. Carlos Alberto da Silva / Mestre Kauê: habilitado. Não é comprovante de pagamento.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S88",
+      "Trajetórias formativas e registros biográficos de mestras de capoeira — verbete Mestra Sereia",
+      "Ábia Lima de França; cópia disponibilizada no Scribd",
+      "data desta versão não verificada",
+      "2026-09-15",
+      "https://pt.scribd.com/document/604984503/TRAJETORIAS-FORMATIVAS-E-REGISTROS-BIOGRAFICOS-DE-MESTRAS-DE-CAPOEIRA-Abia-Lima-de-Franca",
+      "Página 261: Helena Rodrigues da Silva recebeu título de mestra de Kauê; fonte do verbete: acervo da própria mestra.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S89",
+      "Raízes da Capoeira Jundiaiense — Mostra Competitiva",
+      "Festival de Curtas / Cultura de Jundiaí; filme de Diego Alves Francisco",
+      "programação consultada em 2026",
+      "2026-09-15",
+      "https://cultura.jundiai.sp.gov.br/festivaldecurtas/mostra-competitiva-2/",
+      "Filme de 21min39s; a sinopse consultada não confirma participação de Kauê.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S90",
+      "CulturaMais — publicação de habilitados",
+      "Cultura de Jundiaí",
+      "24/05/2023",
+      "2026-09-15",
+      "https://cultura.jundiai.sp.gov.br/wp-content/uploads/2023/05/Publicacao_CULTURAMAIS_habilitados.pdf",
+      "Imprensa Oficial de Jundiaí, edição 5273, p. 47 (segunda página do PDF). Etapa anterior do Concurso 04/2023: proposta de Camila Munhoz inabilitada por CND vencida; não confundir com a seleção posterior de setembro.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S91",
+      "Kauê Bonfim — perfil indicado como pessoal",
+      "@bonfimkaue",
+      "estado consultado em 14/09/2026",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimkaue/",
+      "Exibia zero publicações próprias. Marcações de terceiros são fontes separadas.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S92",
+      "Kauê Bonfim — perfil indicado à pesquisa",
+      "Facebook: kaue.bonfim.3",
+      "consulta em 14/09/2026",
+      "2026-09-15",
+      "https://www.facebook.com/kaue.bonfim.3",
+      "Identificação do perfil fornecida à pesquisa; dados biográficos autodeclarados não resolvem divergências de nascimento.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S93",
+      "Zula Bonfim Capoeira — perfil indicado à pesquisa",
+      "Facebook: zulabonfim.capoeira",
+      "consulta em 14/09/2026",
+      "2026-09-15",
+      "https://www.facebook.com/zulabonfim.capoeira",
+      "Ponto de localização de fontes; conteúdo pessoal sem pertinência histórica excluído.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S94",
+      "Homenagem ao Mestre Kauê em seu aniversário",
+      "@bonfimcapoeirasp",
+      "15/11/2022",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/p/Ck_kVNuOkdG/",
+      "Legenda o chama de nosso mestre e destaca seu trabalho na equipe dos Jogos Regionais.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S95",
+      "Dia do mestre de capoeira",
+      "@bonfimcapoeirasp",
+      "17/10/2023",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/p/CyheCXJuoTi/",
+      "Homenagem e marcações de Piaba, Sereia, Zula, Kauê, Jundiaí e Reginaldo; não é árvore completa de formação.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S96",
+      "Jangadinha infantil",
+      "@bonfimcapoeirasp",
+      "09/11/2022",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/reel/CkwC-C3L1Pg/",
+      "Legenda explica atividade cooperativa com canto, ritmo e puxada de rede.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S97",
+      "Participação na Expo Internacional da Consciência Negra",
+      "@risadinhaale, publicação em colaboração",
+      "30/11/2025",
+      "2026-09-15",
+      "https://www.instagram.com/risadinhaale/reel/DRsIDH6jkdb/",
+      "Depoimento sobre projeto escolar; agradece aos mestres Zula e Kauê. Comentário de @emefpadrenildo gera pista de identificação da escola.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S98",
+      "Convite ao evento de Mestre Kauê em Jundiaí",
+      "@bonfimcapoeirasp",
+      "21/02/2024",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/reel/C3m_kplOlm9/",
+      "Anuncia participação nos dias 23–24 de fevereiro; distingue convite de realização.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S99",
+      "Abertura do batizado e troca de cordas Bonfim São Paulo",
+      "@bonfimcapoeirasp",
+      "registro localizado na sequência de agosto de 2022; dia não conferido",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/reel/ChvX3vbs-io/",
+      "Legenda indexada na grade anuncia abertura; útil como pista audiovisual, sem número da edição confirmado.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S100",
+      "Treino infantil / Bonfim Kids / Mestre Zula",
+      "@bonfimcapoeirasp",
+      "registro localizado na sequência de outubro de 2022; dia não conferido",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/reel/Cj8_bQbr_a-/",
+      "Título descritivo baseado nas hashtags da publicação; testemunha uso do título mestre, não a data de concessão.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S101",
+      "Anúncio de futura formatura de Sagu",
+      "@sagu_ferreira e @racteec_transmotricidade",
+      "09/01/2026",
+      "2026-09-15",
+      "https://www.instagram.com/p/DTT0R-MkQq-/",
+      "Publicação anuncia futura graduação a mestre; não comprova sua realização.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S102",
+      "Formatura / Professor Ursão",
+      "@bonfimcapoeirasp",
+      "21/05/2024",
+      "2026-09-15",
+      "https://www.instagram.com/bonfimcapoeirasp/reel/C7Py8R_O_SO/",
+      "Anúncio de formatura e identificação de Ursão como anfitrião e organizador; não comprova data da cerimônia.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S103",
+      "Entrevista ou fala de Kauê no 9º Encontro Ginga Palmares",
+      "publicação vinculada a @gingapalmaresoficial",
+      "data exata não conferida",
+      "2026-09-15",
+      "https://www.instagram.com/reel/DRR78XQDcOz/",
+      "Localizado por marcação e legenda; conteúdo falado não transcrito integralmente.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S104",
+      "Mestre Joan representa Bonfim Pariquera-Açu em Jundiaí",
+      "publicação localizada nas marcações de Kauê",
+      "legenda informa 28/02/2026",
+      "2026-09-15",
+      "https://www.instagram.com/p/DVbmP5PDre3/",
+      "Pista de intercâmbio recente; autoria e data de publicação precisam ser fechadas antes de republicação.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S105",
+      "Retrospectiva da graduação de Reginaldo a Grão-Mestre, Cananéia 2012",
+      "publicação localizada nas marcações de Kauê",
+      "retrospectiva; data de publicação não consolidada",
+      "2026-09-15",
+      "https://www.instagram.com/p/DaGJZ7Old0_/",
+      "Pista para cruzar com anúncio de 2012 e identificar fotografias; não usada para atribuição facial.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S106",
+      "Mestre Kauê — catálogo musical",
+      "Amazon Music",
+      "consulta em 14/09/2026",
+      "2026-09-15",
+      "https://music.amazon.in/artists/B0BBY1QRMW/mestre-kau%C3%AA",
+      "Localização de repertório; créditos, composições e datas originais exigem encarte ou confirmação autoral.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S107",
+      "O Mestre e a Sua História",
+      "Grupo de Capoeira Nosso Senhor do Bonfim / Mestre Zula, catálogo Audiomack",
+      "catálogo informa lançamento em 01/02/2012",
+      "2026-09-15",
+      "https://audiomack.com/grupo-de-capoeira-nosso-senhor-do-bonfim/song/o-mestre-e-a-sua-historia",
+      "Título atual de artista não prova graduação de Zula em 2012.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S108",
+      "Grupo de Capoeira Nosso Senhor do Bonfim SP — Mestre Kauê Profº Zula",
+      "Mikaelly Marx / YouTube",
+      "15/01/2013",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=KEC2qHImoQk",
+      "2min34s; publicação e título conferidos na página; não há descrição do evento.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S109",
+      "3 Batizado e Troca de Cordas — Capoeira Nosso Senhor do Bonfim",
+      "Thiagoespoleta / YouTube",
+      "07/09/2016",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=xQbW_CpCtA4",
+      "Cerca de 7min09s; descrição: Núcleo São Paulo; data é de publicação.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S110",
+      "Aula Especial Infantil — Associação de Capoeira Nosso Senhor do Bonfim — Mestre Kauê",
+      "Capoeira Bonfim — Jundiaí / YouTube",
+      "03/08/2018",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=MWqdAdKbpXo",
+      "Cerca de 4min02s; descrição informa aula de 22 de julho e intercâmbio com academia do Contra Mestre Zula em São Paulo.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S111",
+      "Capoeira Bonfim Parte 02",
+      "Natasha Mitsue / YouTube",
+      "data exata não conferida; resultado exibia há 19 anos",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=ioNoptkHSLQ",
+      "2min08s; descrição associa a Jundiaí e menciona antigo domínio capoeirabonfim.com.br.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S112",
+      "Capoeira Bonfim de Jundiaí — aniversário do meu mestre",
+      "Risadinha3112 / YouTube",
+      "data exata não conferida; resultado exibia há 16 anos",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=ib2vYsM0sMw",
+      "2min05s; descrição identifica Mestre Kauê.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S113",
+      "Desfile 7 de Setembro 2011 — Grupo Bonfim Jundiaí — parte 5",
+      "Nina Santos / YouTube",
+      "2011 no título; publicação exata não conferida",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=m3X8zyJGzHo",
+      "17s; registro cívico do grupo, sem identificação individual assegurada.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S114",
+      "XXII Batizado e troca de cordas Bonfim 2016 — Mestre Kauê — Monitoria / Jeanne",
+      "Jeanne Bernardo / YouTube",
+      "2016 no título",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=mWJ_iiGndok",
+      "1min04s; preservar numeração original, sem reconstruir anos ausentes por cálculo.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S115",
+      "Vadiação capoeira Jundiaí — Mestre Kauê",
+      "Jeanne Bernardo / YouTube",
+      "data exata não conferida; resultado exibia há 10 anos",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=iVs5L7Y5yoc",
+      "2min05s; indexação de registro de roda.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S116",
+      "Mestre Kauê 30 anos — Capoeira Bonfim Jundiaí SP",
+      "Marcos Lima / canal Mestre Markao Capoeira",
+      "09/02/2020",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=P9uDG9oDMtY",
+      "Cerca de 3min13s; data de publicação conferida. O título não estabelece 30 anos de prática pessoal nem o início de São Paulo capital.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S117",
+      "Te Conheci Meu Mestre — homenagem a Mestre Kauê",
+      "Capoeira Bonfim / YouTube",
+      "data exata não conferida; resultado exibia há 6 anos",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=NODpsCNy74c",
+      "2min52s; descrição aponta @capoeirabonfim_frg e facebook.com/capoeiraparana; vínculo territorial a confirmar.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S118",
+      "Capoeira Bonfim Jundiaí — Tem que ter Axé",
+      "Washington Pereira / Diosh / YouTube",
+      "data exata não conferida; resultado exibia há 11 anos",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=1uGx9ejfkEA",
+      "4min24s; pista audiovisual para identificação de evento e pessoas.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S119",
+      "O Mestre e Sua História",
+      "YouTube — catálogo musical Bonfim / Mestre Zula",
+      "data original de gravação não estabelecida",
+      "2026-09-15",
+      "https://www.youtube.com/watch?v=VTfdfAtvlnM",
+      "Referência musical; não constitui biografia factual sem análise da letra e dos créditos.",
+      "Conforme alcance da evidência e ressalvas no dossiê"
+    ],
+    [
+      "S120",
+      "Mestre Marcão — perfil profissional no Instagram",
+      "@mestremarcao050460",
+      "Consulta da apresentação e grade",
+      "2026-09-15",
+      "https://www.instagram.com/mestremarcao050460/",
+      "Bio: mandanegra; Formação; mestre de capoeira. Consulta breve. Núcleo separado de Zula conforme relato R01, sem identificação nominal e sem URL pública.",
+      "ALTA para conteúdo da bio; endereço, horários e nome civil não confirmados nela."
+    ]
+  ]
+}

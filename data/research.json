@@ -1,0 +1,23 @@
+{
+  "revision": "2026-09-15",
+  "inputs": [
+    {
+      "file": "Dossie_Bonfim_Revisado.pdf",
+      "sha256": "3d9e9a50f8df9e4ce9bd32a67a9f0c41b93729974c42f72d04d18d6ec005cf2a"
+    },
+    {
+      "file": "Catalogos_Bonfim_Revisado.xlsx",
+      "sha256": "3bb7b07e3a0705b41ac3e09361e50bd08e42afbf3d7994664c012806c3d3cb55"
+    }
+  ],
+  "pdf_pages": 65,
+  "workbook_sheets": 13,
+  "oral_source": {
+    "id": "R01",
+    "nature": "Relato de alunos, sem identificação nominal",
+    "recorded": "setembro de 2026",
+    "url": null,
+    "account": "Zula é aluno de Kauê e reside em São Paulo. Zula e Mestre Marcão dirigem dois núcleos na capital, em locais distintos. Marcão foi formado por Mestre Reginaldo Santana.",
+    "limits": "Relato encaminhado à pesquisa; não corresponde a entrevistas independentes realizadas pela pesquisa. Sem documento comprobatório anexado e sem data de graduação."
+  }
+}
