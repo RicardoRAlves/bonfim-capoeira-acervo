@@ -1,0 +1,159 @@
+{
+  "sheet": "Divergências",
+  "columns": [
+    "Registro",
+    "Tema",
+    "Versões encontradas",
+    "Tratamento recomendado",
+    "Fontes"
+  ],
+  "rows": [
+    [
+      "D01",
+      "Fundação",
+      "1977 no mapeamento; 1978 em relatos predominantes; 1979 em reportagem",
+      "Usar versão predominante com ressalva; pedir ata.",
+      "S01,S02,S10,S44,S45"
+    ],
+    [
+      "D02",
+      "Primeiro contato de Régis",
+      "José Augusto em 2026; Ireneildo em 2012",
+      "Preservar os dois relatos.",
+      "S01,S02"
+    ],
+    [
+      "D03",
+      "Títulos de Régis",
+      "Contagens de brasileiros, grande roda e paulistas variam",
+      "Não somar nem escolher um total.",
+      "S01,S02,S03"
+    ],
+    [
+      "D04",
+      "Nascimento de Kauê",
+      "Uberaba em dissertação; Passos na Jundpedia",
+      "Cidade natal NÃO CONFIRMADA.",
+      "S10,S49"
+    ],
+    [
+      "D05",
+      "Idades de Kauê",
+      "Ano 1966 não combina com idade em 2013 ou início em 1979",
+      "Priorizar trajetória local; confirmar biografia.",
+      "S11,S49"
+    ],
+    [
+      "D06",
+      "Casa da Cultura",
+      "Quase dez anos ou doze anos",
+      "Não fixar data final por cálculo.",
+      "S10,S49"
+    ],
+    [
+      "D07",
+      "Homenagem 2012",
+      "Anúncio na Praça Tiduca; realização no Maratayma",
+      "Usar relato posterior para o local realizado.",
+      "S02,S50"
+    ],
+    [
+      "D08",
+      "Honorífico 2024",
+      "Autobiografia em site universitário cita outra concedente",
+      "Não atribuir título à UFMG.",
+      "S01"
+    ],
+    [
+      "D09",
+      "Disco",
+      "Data digital 01/02/2012; original e encarte ausentes",
+      "Tratar como metadado, inclusive títulos nas faixas.",
+      "S39"
+    ],
+    [
+      "D10",
+      "Copa Passos 2019",
+      "Dia do mês e dia da semana incompatíveis",
+      "Manter julho de 2019, sem dia fechado.",
+      "S38"
+    ],
+    [
+      "D11",
+      "Alcance internacional",
+      "Menções a países, viagens e Hamburgo",
+      "Não transformar menções em filiais ativas.",
+      "S20,S21,S29,S77"
+    ],
+    [
+      "D12",
+      "Nomes parecidos",
+      "Dois Marcões; Sagui e Sagu; Bonfim de outras linhagens",
+      "Desambiguar por nome, local e relação documentada.",
+      "S24,S28,S39,S62"
+    ],
+    [
+      "D13",
+      "Nascimento de Kauê no Facebook",
+      "Perfil indicado exibia 15/11/1964; Jundpedia e UNESP apontam 1966; idade de 2013 também diverge",
+      "Não escolher ano ou cidade; dia e mês 15/11 são prováveis",
+      "S92, S49, S10, S11"
+    ],
+    [
+      "D14",
+      "Foto publicada em 1999",
+      "Edição 23–29/10/1999, legenda 23/10 e carimbo fotográfico 24/10/98",
+      "Reuso de fotografia de 1998 provável; não tratar como foto de 1999",
+      "A06, A09, A12"
+    ],
+    [
+      "D15",
+      "Endereço da Casa da Cultura",
+      "Convite de 2001 traz 321; memória digital traz 221",
+      "Preservar as grafias e confirmar os imóveis",
+      "A02, S48"
+    ],
+    [
+      "D16",
+      "Bairro do SESI em 2002",
+      "Jardim Morumbi no corpo e Vila Municipal no carimbo",
+      "Não normalizar as duas formas sem documento",
+      "A01"
+    ],
+    [
+      "D17",
+      "Datas nos nomes de arquivos",
+      "Arquivos Bonfim 1998 contêm documentos de 1997, 2001, 2002 e 2004",
+      "Data interna prevalece; conservar o nome original",
+      "A01–A05"
+    ],
+    [
+      "D18",
+      "Duplicatas documentais",
+      "A04/A05 e A09/A12 representam duas duplas da mesma peça",
+      "12 arquivos não equivalem a 12 fontes independentes",
+      "A04, A05, A09, A12"
+    ],
+    [
+      "D19",
+      "Graduações e nomes",
+      "Professor Zula 2013, contramestre 2018 e mestre 2022; formatura futura de Sagu em 2026",
+      "Título em legenda não fixa cerimônia nem concedente",
+      "S108, S110, S100, S101"
+    ],
+    [
+      "D20",
+      "CulturaMais e PNAB",
+      "Etapas administrativas distintas; nome do PDF PNAB menciona 17, tabela pertence ao 18/2024",
+      "Ler cabeçalho do ato; não inferir pagamento ou execução",
+      "S85, S86, S87, S90"
+    ],
+    [
+      "D21",
+      "Dois núcleos em São Paulo",
+      "Relato de alunos esclarece que Marcão e Zula dão aula em locais distintos; o perfil de Marcão confirma sua autoapresentação como mestre de capoeira.",
+      "Registrar N03A Aroeira/Zula e N03B Marcão separadamente. Endereços e datas de abertura continuam em confirmação; distinção dos locais tem fonte testemunhal.",
+      "S03, S64, S80, S120, R01"
+    ]
+  ]
+}

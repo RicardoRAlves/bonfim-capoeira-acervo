@@ -1,0 +1,161 @@
+{
+  "sheet": "Documentos",
+  "columns": [
+    "Código",
+    "Arquivo original",
+    "Data exata interna",
+    "Conteúdo e datação",
+    "Proveniência",
+    "Avaliação documental",
+    "Duplicata de",
+    "Disponibilidade",
+    "Reprodução",
+    "Confiança e alcance"
+  ],
+  "rows": [
+    [
+      "A01",
+      "Bonfim 1998-2.jpg",
+      "2002-06-29",
+      "11º batizado, 29/06/2002; associação fundada em 02/02/1990; Carlos Alberto da Silva, presidente; SESI",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Fonte primária central para nome, função e organização. Não é documento de 1998.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A02",
+      "Bonfim 1998-3.jpg",
+      "2001-10-20",
+      "10º batizado, 20/10/2001; SESI; organizadores e instrutores",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Fonte primária. Rodapé: Marechal Deodoro da Fonseca, 321; diverge do 221 da história na web.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A03",
+      "Bonfim 1998-4.jpg",
+      "1997-10-25",
+      "6º batizado, 25/10/1997, Clube São João",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Já nomeia Mestre Kauê como diretor; campanha de doações.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A04",
+      "Bonfim 1998-5.jpg",
+      "2004-07-10",
+      "13º batizado, 10/07/2004, Clube São João",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Convite com doações e apoiadores locais.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A05",
+      "Bonfim 1998-6.jpg",
+      "2004-07-10",
+      "Mesmo cartaz do 13º batizado de 2004",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Duplicata documental de A04; manter como segunda digitalização, não como nova fonte independente.",
+      "A04",
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A06",
+      "Bonfimjornal1.jpg",
+      "1998-10-24",
+      "7º batizado, 24/10/1998, Clube São João",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "É um cartaz, apesar de “jornal” no nome; apoio municipal e comercial.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A07",
+      "Bonfimjornal2.jpg",
+      "2000-10-14",
+      "9º batizado, 14/10/2000, Clube São João",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Cartaz; confirmação de número, data anunciada e local.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A08",
+      "Bonfimjornal3.jpg",
+      "1994-07-02",
+      "3º batizado, 02/07/1994, Ginásio da Esportiva",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Registro mais antigo do conjunto fornecido; nome do grupo explícito, nome de Kauê não visível.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A09",
+      "Bonfimjornal4.jpg",
+      null,
+      "“Sociais”, Roteiro Cultural, p. 10, edição de 23–29/10/1999",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Foto/legenda de batizado no Clube São João. Nome do veículo não consolidado pela leitura do cabeçalho.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A10",
+      "Bonfimjornal5.jpg",
+      "2002-09-21",
+      "Jornal de Jundiaí, 21/09/2002, p. 4, “Bastidores”",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Não foi identificado vínculo direto com Kauê ou Bonfim no texto legível. Conservar como contexto, não prova biográfica.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A11",
+      "Bonfimjornal6.jpg",
+      "2002-09-21",
+      "Jornal de Jundiaí, 21/09/2002, Esportes p. 3, “A caminho da batalha”, Patrícia Baptista",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Contexto da delegação de Jundiaí aos Jogos Abertos em Franca; menção à capoeira não basta para identificar Kauê ou Bonfim.",
+      null,
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ],
+    [
+      "A12",
+      "jornal23a29101999.jpg",
+      null,
+      "Recorte mais legível da página de A09",
+      "Acervo particular fornecido à pesquisa em 14/09/2026",
+      "Mesma fonte impressa, com melhor leitura da legenda e do carimbo fotográfico.",
+      "A09",
+      "Sem URL pública informada",
+      "Reprodução pública depende de crédito e autorização; originais não incorporados",
+      "ALTA para leitura do documento; vínculo e datas limitados às ressalvas"
+    ]
+  ]
+}
